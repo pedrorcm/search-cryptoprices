@@ -20,3 +20,4 @@ Make it write the data in a CSV file, so the user can follow prices overtime;
 
 Make a tracker to the top 20 coins;
 Show the variance in 24h;
+Make the script run automatically at 00h;
